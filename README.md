@@ -1,12 +1,13 @@
 # Abdullah Mahdi
 
 
-- 👋 Hi, I am [@Abdullah][GitHub].
-- 👀 I am interested in Software Engineering.
-- 🌱 I am working in web development.
-- 🧑‍💻 I graduated from Computer Science college.
-- 📫 You can reach me via [Linkedin], [Facebook] and [Twitter].
-- 💬 Ask me about #Javascript #ReactJS #NextJS
+- 👋 Hi, I am [@Abdullah][GitHub].  
+- 👀 I am interested in **Software Engineering** and modern web technologies.  
+- 🌱 Currently working in **Web Development** (Front-End).  
+- 🧑‍💻 I graduated from the **Faculty of Computer Science**.  
+- 🎓 I am working as a **Teaching Assistant in Computer Science**.  
+- 💬 Ask me about **#JavaScript #ReactJS #NextJS**.  
+- 📫 You can reach me via [LinkedIn], [Facebook], and [Twitter]. 
 
 ### contact with me:
 
@@ -14,6 +15,6 @@
 
 [GitHub]: https://github.com/Abdallah-Mahdy-eg
 [Twitter]: https://x.com/AbdullahMahdy18?t=R2NE3o0T_RtmaIfR_bfQSw&s=08
-[Linkedin]: https://www.linkedin.com/in/abdullah-mahdi
+[Linkedin]: www.linkedin.com/in/abdullah-mahdi-04b426200
 [Facebook]: https://www.facebook.com/share/161A7nQpiZ/
-[Mans]: https://github.com/Ahmed-M-Mansour
+
