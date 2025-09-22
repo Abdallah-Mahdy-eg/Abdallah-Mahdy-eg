@@ -6,7 +6,7 @@
 - 🌱 I am working in **web development**.
 - 🎓 I am working as a **Teaching Assistant in Computer Science**.
 - 🧑‍💻 I graduated from the **Faculty of Computer Science**.  
-- 💬 Ask me about **#JavaScript #ReactJS #NextJS**.  
+- 💬 Ask me about **#ProblemSolving #JavaScript #ReactJS #NextJS**.  
 - 📫 You can reach me via [LinkedIn], [Facebook], and [Twitter]. 
 
 ### contact with me:
