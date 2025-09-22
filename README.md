@@ -15,6 +15,6 @@
 
 [GitHub]: https://github.com/Abdallah-Mahdy-eg
 [Twitter]: https://x.com/AbdullahMahdy18?t=R2NE3o0T_RtmaIfR_bfQSw&s=08
-[Linkedin]: www.linkedin.com/in/abdullah-mahdi-04b426200
+[LinkedIn]: www.linkedin.com/in/abdullah-mahdi-04b426200
 [Facebook]: https://www.facebook.com/share/161A7nQpiZ/
 
